@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [SKMSWeb project](https://github.com/SutharUtsav/SKMSSWeb) 
 - 🌱 I’m currently learning <strong>Machine Learning</strong>
 - 📫 How to reach me **utsavsuthar24@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xxHVrk19u8KzRybbvTsERXZJDZy7j_ne/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wnYC5RThPQI6f617RdURtj7OmkgqpA55/view?usp=drive_link)
 
 ## 🛠️ My favorite tools
 
