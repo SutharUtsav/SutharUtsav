@@ -7,10 +7,10 @@
 ## Glad to see you here! &nbsp;
 - I am a full-stack software engineer.
 - I love programming, coding and problem solving.
-- 🔭 I’m currently working on [SKMSWeb project](https://github.com/SutharUtsav/SKMSSWeb) 
-- 🌱 I’m currently learning <strong>Machine Learning</strong>
+- 🔭 I’m currently working on Freelancing Project: A comprehensive community web application
+- 🌱 I’m currently upskilling my <strong>MERN stack</strong> skills.
 - 📫 How to reach me **utsavsuthar24@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wnYC5RThPQI6f617RdURtj7OmkgqpA55/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qAUqhu6RGdZ6brL8ma0kdtaly0zfoNlz/view?usp=sharing)
 
 ## 🛠️ My favorite tools
 
@@ -27,7 +27,6 @@
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -36,8 +35,6 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
