@@ -1,57 +1,114 @@
-# Welcome to Utsav Suthar's profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UtsavSuthar" alt="Utsav Suthar" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/utsavsuthar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
-&nbsp;
 
-## Glad to see you here! &nbsp;
-- I am a full-stack software engineer.
-- I love programming, coding and problem solving.
-- 🔭 I’m currently working on Freelancing Project: A comprehensive community web application
-- 🌱 I’m currently upskilling my <strong>MERN stack</strong> skills.
-- 📫 How to reach me **utsavsuthar24@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qAUqhu6RGdZ6brL8ma0kdtaly0zfoNlz/view?usp=sharing)
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<p align="center">
+<br><img src="./hadder.gif" width="280px"><br><br>
 </p>
+<h3 align="right">Connect with me :</h3>
+<a href="mailto:utsavsuthar24@gmail.com" target="_blank">
+  <img align="right" alt="utsavsuthar24@gmail.com" width="22px" src="./gmail.png" style="margin: 5px;"/>
+</a>
+<a href="https://www.linkedin.com/in/utsavsuthar/" target="_blank">
+  <img align="right" alt="Utsav Suthar - LinkedIn" width="22px" src="./linkedin.png" style="margin: 5px;"/>
+</a>
+<!-- <a href="https://www.githubcom/SutharUtsav" target="_blank">
+  <img align="right" alt="SutharUtsav - Github" width="22px" src="./github.png"/>
+</a> -->
 
-### 🧰 Frameworks and libraries
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Utsav! 
+*Lead Software Craftsman*
+<br /> 
+
+<!--Start Intro-->
+   
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, .NET, Laravel, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🔧 Skilled in building end-to-end applications with clean architecture.
+- 📘 Keen interest in AI/ML workflows and data-driven development.
+- ✨ Enjoy solving complex problems and turning ideas into products.
+- 🧠 Believer in knowledge-sharing and tech community engagement.
+- 💻 Visit my [Portfolio](https://SutharUtsav.github.io) for more details about me.
+<!--End Intro-->
+
+
+<!--Languages and Tools Section-->    
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Skills Animation" src="./Skills_Animation_White.gif" style="margin: 5px;">
+  </picture>
+
+</div>
+<br />
+<br />
+
+
+```js
+
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [ML, Java],
+  interests: [Research, ML, GenAI, Open Source]
+}
+
+const skills = 
+{
+  languages :[C#, PHP, Python, Javascript],
+  
+  frameworks:[VueJs(Quasar), Flutter, ExpressJs, FastAPI, Django, .NET, Laravel],
+  
+  libraries: [ReactJs]
+  
+  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
+  
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+}
+
+
+Developer dev = new Developer(chiraag-kakar);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+
+```
+
+<br />
+<br />
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20have%20no%20methods%3B%20all%20I%20do%20is%20accept%20people%20as%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
-### 🗄️ Databases and cloud hosting
+<br/>
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-</p>
 
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
