@@ -23,13 +23,13 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Utsav! 
-*Lead Software Craftsman*
+# I'm Utsav! 
+*Full Stack Developer*
 <br /> 
 
 <!--Start Intro-->
    
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, .NET, Laravel, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Hi there 👋 I'm full stack developer with extensive experience in creating web applications and specialized expertise in developing scalable multi-tenant systems. </p>
 
 
 - ✨ Student of life :)
@@ -63,33 +63,44 @@
 
 document.write("Hello World");
 
-var status = 
-{ 
-  learning : [ML, Java],
-  interests: [Research, ML, GenAI, Open Source]
-}
 
 const skills = 
 {
-  languages :[C#, PHP, Python, Javascript],
-  
-  frameworks:[VueJs(Quasar), Flutter, ExpressJs, FastAPI, Django, .NET, Laravel],
-  
-  libraries: [ReactJs]
-  
-  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
-  
-  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+  backend: [
+    "C#", ".NET", "PHP", "Laravel", "Python", "Django", "Node.js", "Express", "Go"
+  ],
+
+  frontend: [
+    "TypeScript", "React", "Next.js", "Angular", "Bootstrap", "Tailwind CSS"
+  ],
+
+  databases: [
+    "MySQL", "Microsoft SQL", "PostgreSQL", "MongoDB", "Redis"
+  ],
+
+  devops: [
+    "Git", "Docker", "Docker Compose", "GitHub Actions"
+  ],
+
+  platforms: [
+    "AWS", "Firebase", "Azure", "Cloudflare"
+  ]
+}
+
+var status = 
+{ 
+  learning : [EDA, AI, Kubernetes],
+  interests: [AI]
 }
 
 
-Developer dev = new Developer(chiraag-kakar);
+Developer dev = new Developer(utsav-suthar);
 
 while(dev.isCoding() && dev.isStuck())  
 {
   dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.pasteCodeInIde();
+  dev.researchDocumentation();
+  dev.askAI();
   dev.feelProfessional();
 }
 
