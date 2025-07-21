@@ -84,6 +84,10 @@ const skills =
 
   platforms: [
     "AWS", "Firebase", "Azure", "Cloudflare"
+  ],
+
+  monitoring: [
+    "OpenTelemetry", "Datadog"
   ]
 }
 
